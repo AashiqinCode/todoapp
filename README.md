@@ -6,6 +6,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deploy
+
+Deployed using [gh-pages](https://aashiqincode.github.io/todoapp/) at [master branch](https://github.com/AashiqinCode/todoapp/tree/master)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
