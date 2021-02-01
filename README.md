@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Redux
 - React-Redux
 - gh-pages
+- Redux Persistent
 
 ## Deploy
 
